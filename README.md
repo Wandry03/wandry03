@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Wandry !
- <br>
-<p></p>
+**`Desenvolvedor WEB`**
+
 Meu nome é Wandry Nunes, tenho 20 anos e sou de Minas Gerais. Minha trajetória na programação começou no IFNMG, <br>
 onde cursei o técnico em Informática para Internet. Atualmente, estou cursando Sistemas de Informação na UFVJM.
 <br>
@@ -74,8 +74,8 @@ novas ferramentas, criar projetos e evoluir como desenvolvedor. 🚀
     title="Git"
     width="40px" 
     style="padding-: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
 
 <img 
  align="right"
- src="https://github.com/Wandry03/wandry03/blob/main/download.gif">
+ src="https://github.com/Wandry03/wandry03/blob/main/download.gif"> <br>
