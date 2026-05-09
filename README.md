@@ -1,7 +1,3 @@
-
-
-
-
 ## Olá! Meu nome é Wandry !
  <br>
 <p></p>
@@ -77,8 +73,9 @@ novas ferramentas, criar projetos e evoluir como desenvolvedor. 🚀
     alt="Git" 
     title="Git"
     width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>  
-<br>
+    style="padding-: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
 
+<img 
+ align="right"
+ src="https://github.com/Wandry03/wandry03/blob/main/download.gif">
